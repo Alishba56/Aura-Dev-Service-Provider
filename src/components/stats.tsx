@@ -29,8 +29,8 @@ export default function Stats() {
 
         <div className="border border-secondary/30 rounded-xl p-6 bg-card/50 font-mono text-sm overflow-x-auto animate-fade-in-right hover:border-secondary/60 transition duration-300 hover:shadow-lg hover:shadow-secondary/20">
           <pre className="text-gray-300">
-            {`class AlishbaShahzad {
-  name: "Alishba Shahzad",
+            {`class Aurahubs {
+  name: "Aura Hub",
   role: "Full Stack Developer",
   Frontend_skills: [
     "React & Next.js",
