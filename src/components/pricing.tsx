@@ -176,7 +176,7 @@ export default function Pricing() {
         </div>
 
         {/* Additional info */}
-        <div className="text-center mt-16 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
+        <div className="text-center mt-16 animate-fade-in-up" style={{ animationDelay: "0.3s" }}">
           <p className="text-muted-foreground mb-4">Have a unique project in mind?</p>
           <button className="text-primary hover:text-secondary transition-colors duration-300 font-semibold flex items-center gap-2 mx-auto link-hover">
           <Link href='/contact'>
